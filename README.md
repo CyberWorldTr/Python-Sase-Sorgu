@@ -4,5 +4,5 @@ Python ile Şase Sorgulama:
 
 Kurulum
 =
-pip install vininfo
+    pip install vininfo
 
