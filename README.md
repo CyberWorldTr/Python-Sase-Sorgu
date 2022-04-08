@@ -1,6 +1,6 @@
 # Python-Sase-Sorgu
 
-Python ile Şase Sorgulama:
+Python ile Araç Şase Sorgulama:
 
 Kurulum
 =
